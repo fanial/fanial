@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fanial
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning PHP, Codeigniter & C++
+- 👀 I’m interested in Android and Multi-Platform Programming
+- 🌱 I’m currently learning Flutter & Kotlin
 - 📫 How to reach me fani.aghistiya.lestr@gmail.com
 - google sites https://sites.google.com/view/fani-aghistiya-lestari/home
 
