@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and Multi-Platform Programming
 - 🌱 I’m currently learning Flutter & Kotlin
 - 📫 How to reach me fani.aghistiya.lestr@gmail.com
-- 🎯 My Portofolio sites https://sites.google.com/view/fani-aghistiya-lestari/home
+- 🎯 My Portofolio sites https://sites.google.com/view/fanial/home
 
 🤠 Coding Activity Last Year From Wakatime
 
