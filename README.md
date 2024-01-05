@@ -14,7 +14,11 @@
   
 <a href="https://linkedin.com/in/fanial" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://wakatime.com/@fanial_32" target="_blank">
+<img src=https://wakatime.com/badge/user/77917ec2-3884-452e-9781-a2d3e3377a0b.svg/>
+</a>
+
 <br/>  
 
 
@@ -46,22 +50,25 @@
 
 </td><td valign="top" width="50%">
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)
-
-</td></tr></table>  
-
-<br/>  
-
-
 🤠 Coding Activity Last Year From Wakatime
 
 ![image.png](https://wakatime.com/share/@fanial_32/47e235fe-fb87-4d1c-88ba-6b72ebc214ca.png)
 
+</td></tr>
+
+<tr><td valign="top" width="50%">
+  
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)
+
+</td><td valign="top" width="50%">
+  
 ❤️‍🔥 Last Week's Coding Activity
 
-<img src="https://wakatime.com/share/@fanial_32/9233f11f-9927-41c9-863c-619d63a0b872.svg" width=50% height=50%>
+<img src="https://wakatime.com/share/@fanial_32/9233f11f-9927-41c9-863c-619d63a0b872.svg" width=auto height=50%>
 
-👩‍💻 Total time Coded since Mar 2020 : ![image.png](https://wakatime.com/badge/user/77917ec2-3884-452e-9781-a2d3e3377a0b.svg)
+</td></tr></table>  
+
+<br/>  
 
 <!---
 fanial/fanial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
