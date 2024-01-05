@@ -46,7 +46,7 @@
 
 </td><td valign="top" width="50%">
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 </td></tr></table>  
 
