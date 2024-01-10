@@ -7,7 +7,7 @@
 - 🔭 I’m interested in Android Developement & Software Quality Assurance  
   
 
-- 🌱 I’m currently learning Flutter & Python  
+- 🌱 Currently code with Kotlin
   
 
 -  🧰 [Portofolio Sites](https://sites.google.com/view/fanial/home)  
