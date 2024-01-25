@@ -51,7 +51,7 @@ A girl love code and hike, mostly half of her life is for coding and half for ex
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fanial&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fanial&theme=default&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
