@@ -63,7 +63,7 @@ A girl love code and hike, mostly half of her life is for coding and half for ex
 
 <tr><td valign="top" width="50%">
   
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312rpdrwlptwzagppphuwnv7lxzi&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313r22543giq75c7lxopdsbvproq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </td><td valign="top" width="50%">
   
