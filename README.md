@@ -48,28 +48,14 @@ A girl love code and hike, mostly half of her life is for coding and half for ex
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 🤠 Coding Activity
+<table><tr><td valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fanial&theme=default&hide_border=true" align="left" style="width: 100%" />
+<img src="https://wakatime.com/share/@fanial_32/47e235fe-fb87-4d1c-88ba-6b72ebc214ca.png" align="center" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
-🤠 Coding Activity Last Year From Wakatime
-
-![image.png](https://wakatime.com/share/@fanial_32/47e235fe-fb87-4d1c-88ba-6b72ebc214ca.png)
-
-</td></tr>
-
-<tr><td valign="top" width="50%">
+<tr><td valign="top">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313r22543giq75c7lxopdsbvproq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</td><td valign="top" width="50%">
-  
-❤️‍🔥 Last Week's Coding Activity
-
-<img src="https://wakatime.com/share/@fanial_32/9233f11f-9927-41c9-863c-619d63a0b872.svg" width=auto height=50%>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fanial&theme=default&hide_border=true" align="center" style="width: 50%" />
 
 </td></tr></table>  
 
