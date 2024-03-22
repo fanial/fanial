@@ -49,9 +49,18 @@ A girl love code and hike, mostly half of her life is for coding and half for ex
 
 
 ## 🤠 Coding Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fanial&theme=default&hide_border=true" align="center" style="width: 50%" />
-<img src="https://wakatime.com/share/@fanial_32/47e235fe-fb87-4d1c-88ba-6b72ebc214ca.png" align="center" style="width: 100%" />
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanial&theme=default" align="center" style="width: 100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=fanial&rank_icon=github" align="center" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
+<img src="https://wakatime.com/share/@fanial_32/47e235fe-fb87-4d1c-88ba-6b72ebc214ca.png" align="center" style="width: 100%" />
 
 <br/>  
 
