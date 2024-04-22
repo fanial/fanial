@@ -55,13 +55,12 @@ A girl love code and hike, mostly half of her life is for coding and half for ex
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanial&theme=default" align="center" style="width: 100%" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fanial&rank_icon=github" align="center" style="width: 100%" />
+      <a href="https://wakatime.com/@fanial_32"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=fanial_32&layout=compact&theme=light&langs_count=8" /></a>
     </td>
   </tr>
 </table>
 
 <img src="https://wakatime.com/share/@fanial_32/47e235fe-fb87-4d1c-88ba-6b72ebc214ca.png" align="center" style="width: 100%" />
-
 <br/>  
 
 <!---
