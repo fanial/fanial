@@ -3,7 +3,7 @@
 A girl love code and hike, mostly half of her life is for coding and half for explore outdoor activities especially hike.
   
 
-- 💻 Currently intern as Mobile Developer  
+- 💻 Currently work as Mobile Fullstack Developer
   
 
 - 🔭 I’m interested in Android Development & Software Quality Assurance  
@@ -12,7 +12,7 @@ A girl love code and hike, mostly half of her life is for coding and half for ex
 - 🪄 Mostly code using Kotlin, Java, and PHP
   
 
-- 🌱 Still learn Flutter & Jetpack Compose
+- 🌱 Soon become as Multiplatform Developer
   
 
 -  🧰 [Portofolio Sites](https://sites.google.com/view/fanial/home)  
